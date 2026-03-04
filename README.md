@@ -140,7 +140,6 @@ TypingMaster
 ├── TYPING_MASTER_SPEED_CHECKER_TYPING_LOGIC.py
 ├── TYPING_MASTER_SPEED_CHECKER_UI.py
 ├── TYPING_MASTTER_SPEED_CHECKER_KEYBOARD_UI.py
-│
 └── RawDataoftxt
 └── TYPING_MASTER_PARAGRAPH.txt
 
@@ -318,7 +317,6 @@ Day 41 Project
 ---
 
 # 👨‍💻 Author
-ROBIN GUPTA
 
 **Robin Gupta**
 
